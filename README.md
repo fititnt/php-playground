@@ -1,2 +1,2 @@
-# php-playground
+# PHP Playground
 Nothing here. Go away
