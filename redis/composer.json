@@ -1,0 +1,12 @@
+{
+    "name": "fititnt/php-redis-playground",
+    "require": {
+        "predis/predis": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Emerson Rocha Luiz",
+            "email": "emerson@alligo.com.br"
+        }
+    ]
+}
